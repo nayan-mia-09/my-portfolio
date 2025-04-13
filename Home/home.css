@@ -1,0 +1,44 @@
+
+/* Home Section Css */
+.logo{
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+a:link{
+   text-decoration: none;
+}
+
+.hero-section{
+    margin-left: 150px;
+    background: #306e6c;
+}
+
+.card-1{
+    margin: 50px 0  0 100px;
+    padding: 10px;
+}
+
+.short-description:hover{
+    color: gold;
+    transition: all 0.5s;
+}
+
+.home-img{
+    margin-left: 50px;
+    
+}
+/* Home Section Css */
+
+/* About Section */
+.about-section{
+    margin-left: 150px;
+    background: rgb(236, 131, 1);
+}
+
+.btn-me{
+    border: none;
+    margin: 20px;
+    padding: 2px;
+    color: black;
+}
